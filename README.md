@@ -31,7 +31,7 @@ Programa de consola para registrar sesiones de entrenamiento, calcular volumen y
 - Resolución de problemas
 - Documentación de proyecto
 
-Repositorio: [COMPLETAR LINK]
+Repositorio: https://github.com/rod-ch/GymTrackerConsolaC
 
 ### Práctica SQL para soporte técnico
 Script básico con tablas de clientes y tickets de soporte para practicar consultas SQL.
